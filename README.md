@@ -48,7 +48,7 @@ Current available templates include:
 
 ### Custom Templates
 
-It's unlikely to make everyone happy with the official templates. You can simply fork an official template and then use it via `vue-cli` with:
+It's unlikely to make everyone happy with the official templates. You can simply fork an unofficial template and then use it via `vue-cli` with:
 
 ``` bash
 vue init username/repo my-project
